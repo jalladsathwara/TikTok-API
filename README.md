@@ -12,6 +12,14 @@ A reverse-engineered implementation of the [TikTok](https://www.tiktok.com/) (pr
 npm i tiktok-api
 ```
 
+```bash
+Clone with SSH  =  git@gitlab.com:jalladsathwara/TikTok-API.git
+```
+
+```bash
+Clone with HTTPS = https://gitlab.com/jalladsathwara/TikTok-API.git
+```
+
 ## Usage
 
 ### Creating an instance
