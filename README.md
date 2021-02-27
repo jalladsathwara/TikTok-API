@@ -20,6 +20,10 @@ Clone with SSH  =  git@gitlab.com:jalladsathwara/TikTok-API.git
 Clone with HTTPS = https://gitlab.com/jalladsathwara/TikTok-API.git
 ```
 
+```bash
+Docker =  docker push jalladsathwara/tiktokapi:tagname 
+```
+
 ## Usage
 
 ### Creating an instance
