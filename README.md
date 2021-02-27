@@ -21,7 +21,7 @@ Clone with HTTPS = https://gitlab.com/jalladsathwara/TikTok-API.git
 ```
 
 ```bash
-Docker =  docker push jalladsathwara/tiktokapi:tagname 
+Docker =  docker pull jalladsathwara/tiktokapi
 ```
 
 ## Usage
