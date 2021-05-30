@@ -1,4 +1,4 @@
-export enum FeedType {
+export enum FeedType { 
   ForYou,
   Following,
 }
